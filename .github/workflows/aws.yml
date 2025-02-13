@@ -36,4 +36,6 @@ jobs:
             python3 -m venv base
             source base/bin/activate
             pip install -r Final_Project/requirements.txt
-            streamlit run Final_Project/sample_app.py
+            # streamlit run Final_Project/sample_app.py
+            nohup python3 -m Final_Project/sample_app.py
+            
