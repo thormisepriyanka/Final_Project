@@ -7,3 +7,4 @@ seaborn==0.13.2
 statsmodels==0.14.2
 streamlit==1.41.1
 yfinance==0.2.52
+tensorflow==2.18.0
